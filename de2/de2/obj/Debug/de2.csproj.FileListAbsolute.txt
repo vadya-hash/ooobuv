@@ -1,0 +1,12 @@
+H:\demoekz\de2\de2\obj\Debug\de2.csproj.AssemblyReference.cache
+H:\demoekz\de2\de2\obj\Debug\ShoeStoreApp.LoginForm.resources
+H:\demoekz\de2\de2\obj\Debug\de2.Properties.Resources.resources
+H:\demoekz\de2\de2\obj\Debug\de2.csproj.GenerateResource.cache
+H:\demoekz\de2\de2\obj\Debug\de2.csproj.CoreCompileInputs.cache
+H:\demoekz\de2\de2\bin\Debug\de2.exe.config
+H:\demoekz\de2\de2\bin\Debug\de2.exe
+H:\demoekz\de2\de2\bin\Debug\de2.pdb
+H:\demoekz\de2\de2\obj\Debug\de2.exe
+H:\demoekz\de2\de2\obj\Debug\de2.pdb
+H:\demoekz\de2\de2\obj\Debug\de2.exe.config
+H:\demoekz\de2\de2\obj\Debug\ShoeStoreApp.MainForm.resources
